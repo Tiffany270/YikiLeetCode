@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17fc51c2-9ad1-43d1-83b6-a02f7abc8b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/removeElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/easy/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +24,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="391">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="32" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStockⅡ.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Array/easy/RemoveElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/removeElement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -37,8 +66,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JavaScript File" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -61,6 +90,9 @@
         <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStock.js" />
         <option value="$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStockII.java" />
         <option value="$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStockⅡ.js" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/removeElement.js" />
+        <option value="$PROJECT_DIR$/src/Array/easy/RemoveElement.java" />
       </list>
     </option>
   </component>
@@ -132,12 +164,15 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550132847471" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550207271201" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tiffany/TPF_YIKI_Web" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\YikiLeetCode\JavaScriptVersion\Array\Array_easy" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\YikiLeetCode\JavaScriptVersion\Array" />
     </key>
@@ -154,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BestTimeToBuyandSellStockII">
+  <component name="RunManager" selected="Application.RemoveElement">
     <configuration name="BestTimeToBuyandSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.easy.BestTimeToBuyandSellStockII" />
       <module name="YikiLeetCode" />
@@ -194,8 +229,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalsTriangleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.easy.PascalsTriangleII" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.easy.RemoveElement" />
       <module name="YikiLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -212,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.BestTimeToBuyandSellStockII" />
         <item itemvalue="Node.js.bestTimetoBuyandSellStock.js" />
         <item itemvalue="Application.BestTimetoBuyandSellStock" />
         <item itemvalue="Application.PascalSTriangle" />
-        <item itemvalue="Application.PascalsTriangleII" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +268,7 @@
       <workItem from="1549849581838" duration="360000" />
       <workItem from="1549850157851" duration="31376000" />
       <workItem from="1550108261359" duration="4188000" />
-      <workItem from="1550130341110" duration="2738000" />
+      <workItem from="1550130341110" duration="8186000" />
     </task>
     <task id="LOCAL-00001" summary="119">
       <created>1549948844846</created>
@@ -267,7 +302,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38662000" />
+    <option name="totallyTimeSpent" value="44110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,7 +317,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15718885" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +334,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3188889" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28555554" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.25444445" />
       <window_info anchor="bottom" id="Messages" order="13" />
@@ -446,8 +481,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="391">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStockⅡ.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/removeElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/easy/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
         </state>
       </provider>
     </entry>
