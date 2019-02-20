@@ -1,0 +1,28 @@
+/**
+ * 35
+ * 不管怎么样就是考二分了
+ * JS 需要四舍五入向上取整
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number}
+ */
+var searchInsert = function (nums, target) {
+
+    let low = 0;
+    let high = nums.length-1;
+
+    while (low <= high) {
+        let mid = Math.round((low + high) / 2);
+        if (nums[mid] === target) {
+            return mid;
+        } else if (nums[mid] > target) {
+            high = mid - 1;
+        } else {
+            low = mid + 1;
+        }
+
+    }
+    return low;
+
+
+};
