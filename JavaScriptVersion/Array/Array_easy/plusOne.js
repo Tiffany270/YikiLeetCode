@@ -15,9 +15,10 @@ var plusOne = function(digits) {
     }
 
     if (digits[0] === 0) {
-        let arr = Array(digits.length + 1).fill(0)
-        arr[0] = 1;
-        return arr;
+        // let arr = Array(digits.length + 1).fill(0)
+        // arr[0] = 1;
+        // return arr;
+        digits.unshift(1);
     }
 
     return digits;
