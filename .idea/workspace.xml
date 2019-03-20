@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17fc51c2-9ad1-43d1-83b6-a02f7abc8b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Medium/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/spiralMatrixII.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RotateArray.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="292">
+              <caret line="52" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/spiralMatrixII.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -48,10 +56,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>arr2</find>
+      <find>int</find>
     </findStrings>
     <replaceStrings>
       <replace>num1</replace>
       <replace>nums2</replace>
+      <replace>let</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -96,6 +106,8 @@
         <option value="$PROJECT_DIR$/src/Array/easy/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/Array/Medium/Subsets.java" />
         <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js" />
+        <option value="$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/spiralMatrixII.js" />
       </list>
     </option>
   </component>
@@ -114,9 +126,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="477" />
-    <option name="y" value="67" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="800" />
+    <option name="y" value="30" />
     <option name="width" value="1445" />
     <option name="height" value="990" />
   </component>
@@ -151,13 +163,6 @@
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="Array_easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="Array_medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -176,14 +181,14 @@
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="Medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,7 +196,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552545909046" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553047624993" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git/bin/git.exe" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -216,9 +221,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.subsets.js">
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.easy.PlusOne" />
+  <component name="RunManager" selected="Application.SpiralMatrixII">
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.easy.RotateArray" />
       <module name="YikiLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -230,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.easy.RotateArray" />
+    <configuration name="SpiralMatrixII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Medium.SpiralMatrixII" />
       <module name="YikiLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.easy.*" />
+          <option name="PATTERN" value="Array.Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpiralMatrixII" />
         <item itemvalue="Node.js.subsets.js" />
         <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Node.js.plusOne.js" />
-        <item itemvalue="Application.PlusOne" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +302,10 @@
       <workItem from="1551231707519" duration="8433000" />
       <workItem from="1551944958118" duration="14759000" />
       <workItem from="1552469165390" duration="3248000" />
-      <workItem from="1552541704109" duration="4270000" />
+      <workItem from="1552541704109" duration="4845000" />
+      <workItem from="1552618775722" duration="946000" />
+      <workItem from="1552902255999" duration="1321000" />
+      <workItem from="1552963832844" duration="7452000" />
     </task>
     <task id="LOCAL-00001" summary="119">
       <created>1549948844846</created>
@@ -331,7 +339,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104426000" />
+    <option name="totallyTimeSpent" value="114720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,9 +351,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="382" y="54" width="1156" height="792" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23793566" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.45710456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,7 +363,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27575758" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33994335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.0509915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,7 +374,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Duplicate detector" order="11" weight="0.25444445" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.194051" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.26062322" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -629,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/TwoSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/twoSumII.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -657,20 +659,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/Medium/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1752">
-          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        <state relative-caret-position="-228">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js">
+    <entry file="file://$PROJECT_DIR$/src/Array/easy/TwoSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="266">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="52" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/spiralMatrixII.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
