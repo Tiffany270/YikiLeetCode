@@ -6,7 +6,7 @@ package Array.Medium;
  *     Given preorder and inorder traversal of a tree, construct the binary tree.
  * */
 
-public class ConstructBinaryTreefromPreorderandInorderTraversal {
+public class ConstructBTfromPreorderandInorderTraversal {
 
 
     /*note:

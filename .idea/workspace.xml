@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17fc51c2-9ad1-43d1-83b6-a02f7abc8b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBTfromPreorderandInorderTraversal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Medium/ConstructBTfromPreorderandInorderTraversal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,49 +29,47 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4462121">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="207">
-                  <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="159">
-                  <caret line="107" selection-start-line="107" selection-end-line="107" />
-                  <folding>
-                    <element signature="e#1039#1040#0" expanded="true" />
-                    <element signature="e#1070#1071#0" expanded="true" />
-                    <element signature="method#buildTree#0;class#ConstructBinaryTreefromPreorderandInorderTraversal#0" />
-                    <element signature="docComment;method#recursion#0;class#ConstructBinaryTreefromPreorderandInorderTraversal#0" />
-                    <element signature="method#recursion#0;class#ConstructBinaryTreefromPreorderandInorderTraversal#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="HTML File" />
-        <option value="Class" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -78,6 +80,7 @@
       <find>minLen</find>
       <find>minpath</find>
       <find>int</find>
+      <find>pNode</find>
     </findStrings>
     <replaceStrings>
       <replace>num1</replace>
@@ -86,6 +89,7 @@
       <replace>minpath</replace>
       <replace>minPath</replace>
       <replace>let</replace>
+      <replace>pHead</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -142,6 +146,9 @@
         <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/minimumTotal.js" />
         <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js" />
         <option value="$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" />
       </list>
     </option>
   </component>
@@ -161,7 +168,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="737" />
+    <option name="x" value="735" />
     <option name="width" value="1195" />
     <option name="height" value="1040" />
   </component>
@@ -173,8 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,19 +197,6 @@
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="Array_medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -216,7 +210,13 @@
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,7 +229,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554254451961" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563334557288" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -254,9 +254,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructBinaryTreefromPreorderandInorderTraversal">
-    <configuration name="ConstructBinaryTreefromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Medium.ConstructBinaryTreefromPreorderandInorderTraversal" />
+  <component name="RunManager" selected="Application.ReverseLinkList">
+    <configuration name="ConstructBTfromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Medium.ConstructBTfromPreorderandInorderTraversal" />
       <module name="YikiLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -281,10 +281,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="combinationSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/combinationSum.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
+    <configuration name="ReverseLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingInterviews.ReverseLinkList" />
+      <module name="YikiLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingInterviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="constructBinaryTreefromPreorderandInorderTraversal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js" working-dir="$PROJECT_DIR$">
+    <configuration name="constructBTfromPreorderandInorderTraversal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBTfromPreorderandInorderTraversal.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="minimumTotal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/minimumTotal.js" working-dir="$PROJECT_DIR$">
@@ -292,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item itemvalue="Node.js.constructBinaryTreefromPreorderandInorderTraversal.js" />
+        <item itemvalue="Application.ReverseLinkList" />
+        <item itemvalue="Application.ConstructBTfromPreorderandInorderTraversal" />
+        <item itemvalue="Node.js.constructBTfromPreorderandInorderTraversal.js" />
         <item itemvalue="Node.js.minimumTotal.js" />
         <item itemvalue="Application.MinimumPathSum" />
-        <item itemvalue="Node.js.combinationSum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -334,6 +344,13 @@
       <workItem from="1553737241945" duration="8220000" />
       <workItem from="1553765028729" duration="644000" />
       <workItem from="1553824195740" duration="23282000" />
+      <workItem from="1554285070089" duration="380000" />
+      <workItem from="1555035454331" duration="9434000" />
+      <workItem from="1555293396293" duration="4004000" />
+      <workItem from="1555407562430" duration="1306000" />
+      <workItem from="1558490858448" duration="2567000" />
+      <workItem from="1558663239658" duration="2331000" />
+      <workItem from="1563328272927" duration="4349000" />
     </task>
     <task id="LOCAL-00001" summary="119">
       <created>1549948844846</created>
@@ -367,7 +384,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175712000" />
+    <option name="totallyTimeSpent" value="200083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,7 +399,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1152815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18967828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +409,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27478755" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3045326" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3045326" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -402,8 +419,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Duplicate detector" order="11" weight="0.25444445" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.04249292" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.33569404" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,6 +429,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
@@ -454,18 +471,6 @@
     <MESSAGE value="118" />
     <MESSAGE value="112" />
     <option name="LAST_COMMIT_MESSAGE" value="112" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java</url>
-          <line>103</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -530,13 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2898">
-          <caret line="126" column="5" selection-start-line="123" selection-start-column="3" selection-end-line="126" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -801,23 +799,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js">
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBTfromPreorderandInorderTraversal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="304">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBTfromPreorderandInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="71">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="123" column="7" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="34" selection-end-column="5" />
           <folding>
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
-            <element signature="method#buildTree#0;class#ConstructBinaryTreefromPreorderandInorderTraversal#0" />
-            <element signature="docComment;method#recursion#0;class#ConstructBinaryTreefromPreorderandInorderTraversal#0" />
-            <element signature="method#recursion#0;class#ConstructBinaryTreefromPreorderandInorderTraversal#0" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
           </folding>
         </state>
       </provider>
