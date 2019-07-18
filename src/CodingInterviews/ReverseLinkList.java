@@ -14,21 +14,36 @@ public class ReverseLinkList {
         }
     }
 
+    //递归思路
+    //从尾部开始，把当前节点的下一个节点的next指向自己
+    //如4->5 变为4<->5互相指了呗
+    //然后避免圈出现，把4->5变为4->null,这样不就剩下4<-5
+    //然后递归递归递归……
+    static public ListNode ReverseListRecursive(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode newHead = ReverseListRecursive(head.next);
+        head.next.next = head;
+        head.next = null;
+        return newHead;
+    }
+
     //非递归思路：
     //防止链表断裂，在转变指向（如0->1->2转为0<-1 2）的时候，临时保存2，
     //方便prev head next往下一个节点移动的时候找到2重新变为head（原head是1）
 
     static public ListNode ReverseList(ListNode head) {
-        if(head==null){
+        if (head == null) {
             return null;
         }
         ListNode newHead = null;
         ListNode pPrev = null;
         ListNode pHead = head;
 
-        while(pHead != null){
+        while (pHead != null) {
             ListNode pTempNext = pHead.next;
-            if(pTempNext == null){
+            if (pTempNext == null) {
                 newHead = pHead;
             }
             pHead.next = pPrev;
