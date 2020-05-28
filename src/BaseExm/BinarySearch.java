@@ -10,7 +10,7 @@ public class BinarySearch {
   * */
 
  //sorted & element not repeat
- private static int search(int key, int[] arr) {
+ private  int search(int key, int[] arr) {
   if (arr.length <= 0) {
    return -1;
   }
@@ -33,7 +33,7 @@ public class BinarySearch {
 
 
  //sorted & element repeat & find the first position
- private static int search2(int key, int[] arr) {
+ private  int search2(int key, int[] arr) {
   if (arr.length <= 0) {
    return -1;
   }
@@ -53,7 +53,7 @@ public class BinarySearch {
 
 
  //sorted & element repeat & find the last position
- private static int search3(int key, int[] arr) {
+ private  int search3(int key, int[] arr) {
   if (arr.length <= 0) {
    return -1;
   }
@@ -72,7 +72,7 @@ public class BinarySearch {
   return arr[hi] == key ? hi : -1;
  }
 
- private static int[] searchRange(int[] nums, int target) {
+ private  int[] searchRange(int[] nums, int target) {
   int[] res = {-1, -1};
 
   int first = search2(target, nums);
@@ -88,20 +88,22 @@ public class BinarySearch {
 
  public static void main(String[] args) {
 
+  BinarySearch b = new BinarySearch();
+
   int key = 8;
   int[] arr1 = {2, 4, 5, 6, 8, 9, 11, 23, 45, 67};
   int[] arr2 = {1, 2, 2, 4, 8, 8, 8};
-  System.out.println(search(key, arr1));
-  System.out.println(search2(key, arr2));
-  System.out.println(search3(key, arr2));
+  System.out.println(b.search(key, arr1));
+  System.out.println(b.search2(key, arr2));
+  System.out.println(b.search3(key, arr2));
   int[] nums = {5, 7, 7, 8, 8, 10};
   int t1 = 8;
 
 
   int t2 = 6;
 
-  System.out.println(Arrays.toString(searchRange(nums, t1)));
-  System.out.println(Arrays.toString(searchRange(nums, t2)));
+  System.out.println(Arrays.toString(b.searchRange(nums, t1)));
+  System.out.println(Arrays.toString(b.searchRange(nums, t2)));
 
   //java除法除非标注float否则为整数
 //  System.out.println(5 / 3);
