@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17fc51c2-9ad1-43d1-83b6-a02f7abc8b93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,10 +45,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="221">
+              <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
               <folding>
-                <element signature="method#ReverseList#0;class#ReverseLinkList#0" />
                 <element signature="method#main#0;class#ReverseLinkList#0" />
               </folding>
             </state>
@@ -162,7 +160,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="735" />
     <option name="width" value="1195" />
     <option name="height" value="1040" />
@@ -224,7 +222,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563334601221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590653800737" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -346,7 +344,9 @@
       <workItem from="1558490858448" duration="2567000" />
       <workItem from="1558663239658" duration="2331000" />
       <workItem from="1563328272927" duration="5223000" />
-      <workItem from="1563355449410" duration="1924000" />
+      <workItem from="1563355449410" duration="2166000" />
+      <workItem from="1568601156645" duration="592000" />
+      <workItem from="1568885038720" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="119">
       <created>1549948844846</created>
@@ -380,7 +380,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202881000" />
+    <option name="totallyTimeSpent" value="204047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,10 +392,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19235925" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19772118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,7 +414,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Duplicate detector" order="11" weight="0.25444445" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.04249292" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.43201134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -832,10 +831,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="221">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
           <folding>
-            <element signature="method#ReverseList#0;class#ReverseLinkList#0" />
             <element signature="method#main#0;class#ReverseLinkList#0" />
           </folding>
         </state>
