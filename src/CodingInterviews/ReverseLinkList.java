@@ -1,6 +1,5 @@
 package CodingInterviews;
 
-import com.sun.tools.javac.Main;
 
 //反转链表
 public class ReverseLinkList {

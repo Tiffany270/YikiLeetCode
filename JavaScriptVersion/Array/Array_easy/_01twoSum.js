@@ -6,10 +6,10 @@
  */
 var _01twoSum = function (nums, target) {
 
-    let res = [];
-    let map = new Map();
+    var res = [];
+    var map = new Map();
 
-    for (let i = 0; i < nums.length; i++) {
+    for (var i = 0; i < nums.length; i++) {
 
         if (map.has(target - nums[i])) {
             res.push(map.get(target - nums[i]));
