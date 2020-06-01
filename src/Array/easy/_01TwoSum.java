@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/*编号1
+/* NO.1
  * Given an array of integers,
  * return indices of the two numbers such that they add up to a specific target.
  * You may assume that each input would have exactly one solution,
@@ -38,20 +38,24 @@ public class _01TwoSum {
      * HashMap
      * 循环把值+i放入map里
      * 只要找到target-i在map里，返回这个的i和target-i的索引
+     *
+     * Note: [1]Map is not allowed repeat key
+     *          - HashMap: containing a hashcode for each key. only have one null value.
+     *          - HashTable: same with above, but not allow have null value.
+     *          - LinkedHashMap: sub of HashMap, containing a order of its insert
+     *          - TreeMap: will sort the order of insert (default up)
+     *
+     *       [2]Set is not allowed repeat value
      * */
     public  int[] twoSum(int[] nums, int target) {
 
         Map<Integer, Integer> myMap = new HashMap<>();
         int[] res = new int[2];
         for (int i = 0; i < nums.length; i++) {
-
             if (myMap.containsKey(target - nums[i])) {
-
                 res[0] = myMap.get(target - nums[i]);
                 res[1] = i;
             }
-
-
             myMap.put(nums[i], i);
         }
 

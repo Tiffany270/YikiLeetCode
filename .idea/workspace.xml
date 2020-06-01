@@ -1,106 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8a0b54-4d7f-4583-9005-2b45324bd863" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseExm/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/twoSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/YikiLeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/YikiLeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/CombinationSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/CombinationSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ContainerWithMostWater.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/RotateImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/SpiralMatrixII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/SpiralMatrixII.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimeToBuyandSellStockII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimeToBuyandSellStockII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimetoBuyandSellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimetoBuyandSellStock.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MaximumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MaximumSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MergeSortedArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveDuplicatesFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveDuplicatesFromSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/SearchInsertPosition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/_01TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/_01TwoSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" afterDir="false" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
+      <change beforePath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/easy/_01TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="-1019">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-=======
-    <leaf>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BaseExm/BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="73" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="73" />
-              <folding>
-                <element signature="method#search#0;class#BinarySearch#0" />
-                <element signature="method#search3#0;class#BinarySearch#0" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-=======
-      <file leaf-file-name="Yiki_34_FindFirstandLastPositionofElementinSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.java">
+            <state relative-caret-position="696">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="291">
+              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
               <folding>
-                <element signature="method#searchRange#0;class#Yiki_34_FindFirstandLastPositionofElementinSortedArray#0" />
-                <element signature="method#main#0;class#Yiki_34_FindFirstandLastPositionofElementinSortedArray#0" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
               </folding>
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
             </state>
           </provider>
         </entry>
@@ -114,104 +69,34 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ListNode</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/majorityElement.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/PascalsTriangleII.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/pascalsTriangleII.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/PascalSTriangle118.java" />
-        <option value="$PROJECT_DIR$/src/Array/easy/PascalSTriangle.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/PascalSTriangle.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStock.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStock.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStockII.java" />
-        <option value="$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStockⅡ.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/RemoveElement.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/removeElement.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/twoSumII.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/Array/easy/SearchInsertPosition.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/searchInsertPosition.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/RemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/easy/RemoveDuplicatesFromSortedArray.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/removeDuplicatesFromSortedArray.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/mergeSortedArray.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/MaximumSubarray.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/maximumSubarray.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/PlusOne.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/plusOne.js" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/index.html" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/rotateArray.js" />
-        <option value="$PROJECT_DIR$/src/Array/easy/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/Subsets.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/spiralMatrixII.js" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/CombinationSum.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/combinationSum.js" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/RotateImage.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/rotateImage.js" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/minimumPathSum.js" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/Triangle.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/minimumTotal.js" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBinaryTreefromPreorderandInorderTraversal.js" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/twoSum.js" />
-        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" />
         <option value="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" />
-=======
-        <option value="$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java" />
-        <option value="$PROJECT_DIR$/src/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/BaseExm/BinarySearch.java" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" />
+        <option value="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="735" />
+    <option name="x" value="265" />
+    <option name="y" value="215" />
     <option name="width" value="1195" />
-    <option name="height" value="1040" />
-=======
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="554" />
-    <option name="width" value="822" />
-    <option name="height" value="728" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+    <option name="height" value="720" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,7 +107,6 @@
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
               <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,60 +118,32 @@
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="Array_easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-=======
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseExm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="Medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590653830513" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\YikiLeetCode\JavaScriptVersion\Array\Array_easy" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\YikiLeetCode\JavaScriptVersion\Array" />
-    </key>
-=======
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591006831223" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,132 +157,41 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Node.js._01twoSum.js">
-    <configuration name="ConstructBTfromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Medium.ConstructBTfromPreorderandInorderTraversal" />
-=======
-  <component name="RunManager" selected="Application.Yiki_34_FindFirstandLastPositionofElementinSortedArray">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaseExm.BinarySearch" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
+  <component name="RunManager" selected="Application._02Add_Two_Numbers">
+    <configuration name="_01TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.easy._01TwoSum" />
       <module name="YikiLeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaseExm.*" />
+          <option name="PATTERN" value="Array.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-<<<<<<< HEAD
-=======
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Medium.CombinationSum" />
+    <configuration name="_02Add_Two_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linked.Medium._02Add_Two_Numbers" />
       <module name="YikiLeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.Medium.*" />
+          <option name="PATTERN" value="Linked.Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-    <configuration name="ReverseLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingInterviews.ReverseLinkList" />
-      <module name="YikiLeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingInterviews.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="01twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="_01twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="constructBTfromPreorderandInorderTraversal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBTfromPreorderandInorderTraversal.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-=======
-    <configuration name="Yiki_34_FindFirstandLastPositionofElementinSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Medium.Yiki_34_FindFirstandLastPositionofElementinSortedArray" />
-      <module name="YikiLeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-    </configuration>
-    <list>
-      <item itemvalue="Application.ReverseLinkList" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.Yiki_34_FindFirstandLastPositionofElementinSortedArray" />
-      <item itemvalue="Application.CombinationSum" />
-    </list>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
+        <item itemvalue="Application._02Add_Two_Numbers" />
+        <item itemvalue="Application._01TwoSum" />
         <item itemvalue="Node.js._01twoSum.js" />
-        <item itemvalue="Node.js.01twoSum.js" />
-        <item itemvalue="Application.ReverseLinkList" />
-        <item itemvalue="Application.ConstructBTfromPreorderandInorderTraversal" />
-        <item itemvalue="Node.js.constructBTfromPreorderandInorderTraversal.js" />
-=======
-        <item itemvalue="Application.Yiki_34_FindFirstandLastPositionofElementinSortedArray" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.ReverseLinkList" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
       </list>
     </recent_temporary>
   </component>
@@ -435,477 +200,106 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bb8a0b54-4d7f-4583-9005-2b45324bd863" name="Default" comment="" />
-      <created>1568353306618</created>
+      <changelist id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="" />
+      <created>1590979349797</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1549849574450</updated>
-      <workItem from="1549849581838" duration="360000" />
-      <workItem from="1549850157851" duration="31376000" />
-      <workItem from="1550108261359" duration="4188000" />
-      <workItem from="1550130341110" duration="8664000" />
-      <workItem from="1550455025690" duration="6632000" />
-      <workItem from="1550545803182" duration="2798000" />
-      <workItem from="1550629070277" duration="2308000" />
-      <workItem from="1550731838213" duration="2969000" />
-      <workItem from="1550800634160" duration="3463000" />
-      <workItem from="1551058908467" duration="3900000" />
-      <workItem from="1551073310784" duration="1403000" />
-      <workItem from="1551147491502" duration="5655000" />
-      <workItem from="1551231707519" duration="8433000" />
-      <workItem from="1551944958118" duration="14759000" />
-      <workItem from="1552469165390" duration="3248000" />
-      <workItem from="1552541704109" duration="4845000" />
-      <workItem from="1552618775722" duration="946000" />
-      <workItem from="1552902255999" duration="1321000" />
-      <workItem from="1552963832844" duration="28709000" />
-      <workItem from="1553650764007" duration="7487000" />
-      <workItem from="1553677891735" duration="102000" />
-      <workItem from="1553737241945" duration="8220000" />
-      <workItem from="1553765028729" duration="644000" />
-      <workItem from="1553824195740" duration="23282000" />
-      <workItem from="1554285070089" duration="380000" />
-      <workItem from="1555035454331" duration="9434000" />
-      <workItem from="1555293396293" duration="4004000" />
-      <workItem from="1555407562430" duration="1306000" />
-      <workItem from="1558490858448" duration="2567000" />
-      <workItem from="1558663239658" duration="2331000" />
-      <workItem from="1563328272927" duration="5223000" />
-      <workItem from="1563355449410" duration="2166000" />
-      <workItem from="1568601156645" duration="592000" />
-      <workItem from="1568885038720" duration="332000" />
-      <workItem from="1590653637336" duration="515000" />
-    </task>
-    <task id="LOCAL-00001" summary="119">
-      <created>1549948844846</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1549948844846</updated>
-    </task>
-    <task id="LOCAL-00002" summary="118">
-      <created>1550027367041</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1550027367041</updated>
-=======
-      <updated>1568353306618</updated>
-      <workItem from="1568353322599" duration="15766000" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
+      <updated>1590979349797</updated>
+      <workItem from="1590979351132" duration="5908000" />
+      <workItem from="1590993225045" duration="5549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="204562000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="11457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24597855" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23512748" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.04249292" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Duplicate detector" order="11" weight="0.25444445" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.4305949" />
-=======
-    <option name="totallyTimeSpent" value="15766000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27377048" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21815519" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Learn" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29836065" />
-      <window_info anchor="bottom" id="Find" order="1" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16621985" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2776204" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.388102" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1842#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/PascalSTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/PascalsTriangleII.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="597">
-          <caret line="70" selection-start-line="70" selection-end-line="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/RemoveDuplicatesFromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStockⅡ.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/maximumSubarray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/plusOne.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/rotateArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="25" column="5" selection-start-line="22" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-=======
-        <state relative-caret-position="-828">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="-321">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/twoSumII.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/subsets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/TwoSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="45" column="43" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/spiralMatrixII.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="55" column="70" lean-forward="true" selection-start-line="54" selection-start-column="6" selection-end-line="55" selection-end-column="70" />
-=======
-        <state relative-caret-position="253">
-          <caret line="53" column="43" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="43" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="method#searchRange#0;class#Yiki_34_FindFirstandLastPositionofElementinSortedArray#0" />
-            <element signature="method#main#0;class#Yiki_34_FindFirstandLastPositionofElementinSortedArray#0" />
-          </folding>
+        <state relative-caret-position="696">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseExm/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="293">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_medium/constructBTfromPreorderandInorderTraversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBTfromPreorderandInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="123" column="7" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/ReverseLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-          <folding>
-            <element signature="class#ListNode#0;class#ReverseLinkList#0" />
-            <element signature="method#ReverseListRecursive#0;class#ReverseLinkList#0" />
-            <element signature="method#ReverseList#0;class#ReverseLinkList#0" />
-            <element signature="method#main#0;class#ReverseLinkList#0" />
-=======
-        <state relative-caret-position="179">
-          <caret line="73" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="73" />
-          <folding>
-            <element signature="method#search#0;class#BinarySearch#0" />
-            <element signature="method#search3#0;class#BinarySearch#0" />
->>>>>>> d2b1c91372f85820f3d376093248bf96788f79dc
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="92" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/bestTimetoBuyandSellStock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="125">
+          <caret line="88" column="40" lean-forward="true" selection-start-line="88" selection-start-column="40" selection-end-line="88" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/easy/_01TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="-1019">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
