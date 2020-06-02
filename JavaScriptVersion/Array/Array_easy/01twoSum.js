@@ -4,7 +4,7 @@
  * @param {number} target
  * @return {number[]}
  */
-var _01twoSum = function (nums, target) {
+var twoSum = function (nums, target) {
 
     var res = [];
     var map = new Map();
@@ -25,6 +25,6 @@ var _01twoSum = function (nums, target) {
 };
 
 var test = [22,7,2,15];
-var res = _01twoSum(test,9);
+var res = twoSum(test,9);
 console.log((res));
 

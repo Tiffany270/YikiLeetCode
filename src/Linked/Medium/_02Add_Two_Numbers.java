@@ -13,64 +13,69 @@ package Linked.Medium;
 
 */
 
-//Definition for singly-linked list.
-class ListNode {
-    int val;
-    ListNode next;
+import java.util.ArrayList;
 
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
 
 public class _02Add_Two_Numbers {
+    /*
+     * Loop a LinkList:
+     *       [1] Store 'head' first, it's important: Node cur = node;
+     *       [2] do sth with current node : cur.next = new ListNode(x)
+     *       [3]loop it: cur = cur.next;
+     * */
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode node = new ListNode(0);
+
+        ListNode node = new ListNode(0);// to store result
+        ListNode cur = node;
+
         int carry = 0;
 
         while (l1 != null || l2 != null) {
 
-            int res = l1.val + l2.val;
+            int x = (l1 != null) ? l1.val : 0;
+            int y = (l2 != null) ? l2.val : 0;
+            int sum = x + y + carry; // add all together
 
-            if (res > 9) {
-                carry = 1;
-                node.val = res % 10;
-            } else {
-                node.val += res;
-            }
-            l1 = l1.next;
-            l2 = l2.next;
+            // [cur.next]
+            // skip current node.val, create an newNode for result
+            // must store your result to next node,
+            // then return node.next is ok
+            // (because store in current node would have an extra loop, which would create a extra node.)
 
-            node.next = new ListNode(carry);
-            System.out.println(node.val);
+            cur.next = new ListNode(sum % 10);//now cur.next.val = sum%10
+            carry = sum > 9 ? 1 : 0; // or sum/10 is ok, because carry is an Integer
+            cur = cur.next;
 
+            if (l1 != null)
+                l1 = l1.next; // the point would stop at 'next' and never loop
+
+            if (l2 != null)
+                l2 = l2.next;
         }
 
-        return node;
+        // consider a situation of l1(1,2)+l2(1,9), you need to add a node
+        if (carry > 0) {
+            cur.next = new ListNode(carry);
+        }
+        return node.next;
     }
 
     public static void main(String[] args) {
-        _02Add_Two_Numbers res = new _02Add_Two_Numbers();
-        ListNode listNode1 = new ListNode();
-        ListNode listNode2 = new ListNode();
+        _02Add_Two_Numbers Two_Numbers = new _02Add_Two_Numbers();
+        ListNode listNode1 = new ListNode(1);
+//        listNode1.add(4);
+//        listNode1.add(3);
 
-        listNode1.val = 2;
-        listNode1.next = new ListNode(4);
-        listNode1.next.next = new ListNode(3);
+        ListNode listNode2 = new ListNode(9);
+        listNode2.add(9);
+//        listNode2.add(7);
 
-        listNode2.val = 5;
-        listNode2.next = new ListNode(6);
-        listNode2.next.next = new ListNode(4);
+        ListNode node = Two_Numbers.addTwoNumbers(listNode1, listNode2);
+        node.print();
 
-        ListNode node = res.addTwoNumbers(listNode1, listNode2);
-        System.out.println(node.val + "->"+ node.next.val);
+
     }
+
+
 }

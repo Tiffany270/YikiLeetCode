@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked/Medium/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/_01TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/_01TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Linked/Medium/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Linked/Medium/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Linked/Medium/_02Add_Two_Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Linked/Medium/_02Add_Two_Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,36 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/easy/_01TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1019">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-257">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-              <folding>
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-528">
+              <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -66,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -82,13 +61,17 @@
       <list>
         <option value="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" />
         <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" />
+        <option value="$PROJECT_DIR$/src/Linked/Medium/ListNode.java" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02_Add_Two_Numbers.js" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js" />
         <option value="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="265" />
-    <option name="y" value="215" />
+    <option name="x" value="616" />
+    <option name="y" value="126" />
     <option name="width" value="1195" />
     <option name="height" value="720" />
   </component>
@@ -118,6 +101,26 @@
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Array_easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked_Medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -143,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591006831223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591076938441" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._02Add_Two_Numbers">
+  <component name="RunManager" selected="Node.js.02AddTwoNumbers.js">
     <configuration name="_01TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.easy._01TwoSum" />
       <module name="YikiLeetCode" />
@@ -184,14 +187,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" working-dir="$PROJECT_DIR$">
+    <configuration name="01twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02AddTwoNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.02AddTwoNumbers.js" />
+        <item itemvalue="Node.js._01twoSum.js" />
         <item itemvalue="Application._02Add_Two_Numbers" />
         <item itemvalue="Application._01TwoSum" />
-        <item itemvalue="Node.js._01twoSum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -206,15 +213,15 @@
       <option name="presentableId" value="Default" />
       <updated>1590979349797</updated>
       <workItem from="1590979351132" duration="5908000" />
-      <workItem from="1590993225045" duration="5549000" />
+      <workItem from="1590993225045" duration="17381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11457000" />
+    <option name="totallyTimeSpent" value="23289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -222,17 +229,17 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16621985" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.2761394" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.47025496" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2776204" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.388102" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.40509915" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.34135976" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -251,27 +258,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js</url>
-          <line>20</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseExm/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -280,24 +269,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linked/Medium/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/easy/_01TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1019">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="-11">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-          <folding>
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-528">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
