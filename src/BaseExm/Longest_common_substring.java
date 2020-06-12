@@ -12,7 +12,7 @@ package BaseExm;
  * Explanation：relevant to DP(Dynamic Programming)
  *   when A[i]=B[j], res = dp[i-1][j-1]+1
  *   matrix:
- *       a   b   c   d   a   f
+ *           b   c   d   a   f
  *       h   0   0   0   0   0
  *       b   1   0   0   0   0
  *       c   0   2   0   0   0
@@ -62,7 +62,7 @@ public class Longest_common_substring {
                 if (s1.charAt(i - 1) == s2.charAt(j - 1)) {
                     dp[i][j] = dp[i - 1][j - 1] + 1;
                     if (dp[i][j] > res) {
-                        out = out + s2.charAt(j - 1);
+                        out = s2.substring(j - dp[i][j], j);//dp[i][j] is the length of substring
                     }
                     res = Math.max(res, dp[i][j]);
                 }
@@ -73,8 +73,8 @@ public class Longest_common_substring {
 
     public static void main(String[] args) {
         Longest_common_substring func = new Longest_common_substring();
-        String s1 = "abacdgfdcaba";
-        String s2 = "abacdfgdcaba";
+        String s1 = "adgbcdt";
+        String s2 = "atybcdd";
         int res = func.getLCS(s1, s2);
         String output = func.getLcs(s1, s2);
         System.out.println(res + output);

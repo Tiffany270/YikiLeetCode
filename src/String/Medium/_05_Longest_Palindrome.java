@@ -27,21 +27,64 @@ public class _05_Longest_Palindrome {
     *(Here is other pretty complex problem:
      How to find common substring :)
 
-     but : I still
+     Note ；To rectify this, each time we find a longest common substring candidate,
+     we check if the substring’s indices are the SAME as the reversed substring’s original indices.
+
+     but : I still can understand
     * */
 
-
-
-    /* Approach 2: Brute Force
-     *  API：String.substring(int beginIndex, int endIndex)
-     * */
-    public String longestPalindrome(String s) {
+    public String longestPalindrome1(String s1) {
         ReverseTool reverseTool = new ReverseTool();
-        String s2 = reverseTool.reverse1(s);
+        String s2 = reverseTool.reverse1(s1);
+
+        String out = "";
+
+//        int len1 = s1.length();
+//        int len2 = s2.length();
+//        int res = 0;
+//        int maxEnd = 0;
+//        int[][] dp = new int[len1 + 1][len2 + 1]; // already all are init into zero
+//        for (int i = 1; i < len1 + 1; i++) {
+//            for (int j = 1; j < len2 + 1; j++) {
+//                if (s1.charAt(i - 1) == s2.charAt(j - 1)) {
+//                    dp[i][j] = dp[i - 1][j - 1] + 1;
+//                    if (dp[i][j] > res) {
+//                        maxEnd = i;
+//                        out = s2.substring(j - dp[i][j], j);
+//                    }
+//                    res = Math.max(res, dp[i][j]);
+//                }
+//            }
+//        }
+        return out;
+
+    }
 
 
+    /*Approach 3 DP
+    *   dp[i][i]=1 (when i = j)
+        if dp[i][j] = 1  then dp[i+1][j-1] = 1
+        if dp[i][j] = 0  then dp[i+1][j-1] = 0
+    *
+    * NOTE：s.substring (start,end) end NOT include endIndex itself, we have to add 1
+    * */
+    public String longestPalindrome(String s) {
 
-        return null;
+        int len = s.length();
+        boolean[][] dp = new boolean[len][len];
+        String maxPal = "";
+
+        for (int l = 1; l <= len; l++) {// Traverse each length
+            for (int i = 0; i < len; i++) { // if u don't understand, u can drew a i-j matrix,diagonal line means length
+                int j = i + l - 1;
+                if (j >= len) break;
+                dp[i][j] = (l == 1 || l == 2 || dp[i + 1][j - 1]) && s.charAt(i) == s.charAt(j);
+                if (dp[i][j]) maxPal = s.substring(i, j + 1);
+            }
+        }
+
+
+        return maxPal;
 
     }
 
@@ -49,7 +92,8 @@ public class _05_Longest_Palindrome {
     public static void main(String[] args) {
 
         _05_Longest_Palindrome func = new _05_Longest_Palindrome();
-        String test = "abac";
+        String test = "cbbabbc";
         String res = func.longestPalindrome(test);
+
     }
 }
