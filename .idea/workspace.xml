@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/Easy/_07_Reverse_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/_08_String_To_Integer_Atoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/BaseExm/Longest_common_substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/BaseExm/Longest_common_substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/String/Medium/_05_Longest_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/String/Medium/_05_Longest_Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseExm/Longest_common_substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseExm/Longest_common_substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String/Medium/_08_String_To_Integer_Atoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="96" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="96" />
+            <state relative-caret-position="205">
+              <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            <state relative-caret-position="341">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -73,12 +71,15 @@
         <option value="$PROJECT_DIR$/src/BaseExm/Longest_common_substring.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java" />
+        <option value="$PROJECT_DIR$/src/Math/Easy/_07_Reverse_Integer.java" />
+        <option value="$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js" />
+        <option value="$PROJECT_DIR$/src/String/Medium/_08_String_To_Integer_Atoi.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="525" />
-    <option name="y" value="156" />
+    <option name="y" value="155" />
     <option name="width" value="1195" />
     <option name="height" value="720" />
   </component>
@@ -87,6 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,6 +107,12 @@
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptVersion" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -127,14 +136,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591941594603" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592205077299" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -153,33 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._06_ZigZag_Conversion">
-    <configuration name="Longest_common_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaseExm.Longest_common_substring" />
-      <module name="YikiLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaseExm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03_Longest_Substring_Without_Repeating_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Medium.Medium._03_Longest_Substring_Without_Repeating_Characters" />
-      <module name="YikiLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.Medium.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._08_String_To_Integer_Atoi">
     <configuration name="_05_Longest_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Medium._05_Longest_Palindrome" />
       <module name="YikiLeetCode" />
@@ -206,16 +187,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="03Longest_Substring_Without_Repeating_Characters.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/String/03Longest_Substring_Without_Repeating_Characters.js" working-dir="$PROJECT_DIR$">
+    <configuration name="_07_Reverse_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.Easy._07_Reverse_Integer" />
+      <module name="YikiLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08_String_To_Integer_Atoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Medium._08_String_To_Integer_Atoi" />
+      <module name="YikiLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06_ZigZag_Conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._08_String_To_Integer_Atoi" />
+        <item itemvalue="Node.js.06_ZigZag_Conversion.js" />
+        <item itemvalue="Application._07_Reverse_Integer" />
         <item itemvalue="Application._06_ZigZag_Conversion" />
         <item itemvalue="Application._05_Longest_Palindrome" />
-        <item itemvalue="Application.Longest_common_substring" />
-        <item itemvalue="Node.js.03Longest_Substring_Without_Repeating_Characters.js" />
-        <item itemvalue="Application._03_Longest_Substring_Without_Repeating_Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -235,12 +242,14 @@
       <workItem from="1591235822058" duration="6487000" />
       <workItem from="1591327111590" duration="6774000" />
       <workItem from="1591607536517" duration="1673000" />
-      <workItem from="1591668603139" duration="18410000" />
+      <workItem from="1591668603139" duration="18907000" />
+      <workItem from="1591948296863" duration="3517000" />
+      <workItem from="1592190457886" duration="6890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67394000" />
+    <option name="totallyTimeSpent" value="78298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,16 +269,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.19571045" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14209116" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.46600565" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.059490085" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3101983" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3427762" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -341,16 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/String/03Longest_Substring_Without_Repeating_Characters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!block;n#lengthOfLongestSubstring#0;n#lengthOfLongestSubstring#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
@@ -389,13 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="96" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -406,10 +398,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="96" selection-start-line="94" selection-start-column="7" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Easy/_07_Reverse_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/String/03Longest_Substring_Without_Repeating_Characters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="37" selection-end-column="2" />
+          <folding>
+            <element signature="e#112#608#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state relative-caret-position="341">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Medium/_08_String_To_Integer_Atoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
         </state>
       </provider>
     </entry>
