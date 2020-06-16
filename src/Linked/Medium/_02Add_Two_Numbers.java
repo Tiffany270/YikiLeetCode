@@ -13,7 +13,6 @@ package Linked.Medium;
 
 */
 
-import java.util.ArrayList;
 
 
 public class _02Add_Two_Numbers {
@@ -25,7 +24,6 @@ public class _02Add_Two_Numbers {
      * */
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-
         ListNode node = new ListNode(0);// to store result
         ListNode cur = node;
 
