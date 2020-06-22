@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_11_minNumberOfRotateArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_39_MajorityElementOfArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,20 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_11_minNumberOfRotateArr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_39_MajorityElementOfArr.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="63" column="17" lean-forward="true" selection-start-line="51" selection-start-column="7" selection-end-line="63" selection-end-column="17" />
+            <state relative-caret-position="265">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,13 +74,18 @@
         <option value="$PROJECT_DIR$/src/CodingInterviews/_10_1_Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_11_minNumberOfRotateArr.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_39_MajorityElementOfArr.java" />
+        <option value="$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="607" />
-    <option name="width" value="1195" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1182" />
+    <option name="y" value="222" />
+    <option name="width" value="995" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -113,20 +108,33 @@
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592557721491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592813282978" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -146,20 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._14_Longest_Common_Prefix">
-    <configuration name="_06_ZigZag_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Medium._06_ZigZag_Conversion" />
-      <module name="YikiLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._15_Three_Sum">
     <configuration name="_07_Reverse_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.Easy.Easy._07_Reverse_Integer" />
       <module name="YikiLeetCode" />
@@ -199,16 +194,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_15_Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Medium._15_Three_Sum" />
+      <module name="YikiLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="06_ZigZag_Conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._15_Three_Sum" />
         <item itemvalue="Application._14_Longest_Common_Prefix" />
         <item itemvalue="Application._08_String_To_Integer_Atoi" />
         <item itemvalue="Node.js.06_ZigZag_Conversion.js" />
         <item itemvalue="Application._07_Reverse_Integer" />
-        <item itemvalue="Application._06_ZigZag_Conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -237,12 +245,14 @@
       <workItem from="1592362338173" duration="2143000" />
       <workItem from="1592467686266" duration="832000" />
       <workItem from="1592545424290" duration="13000" />
-      <workItem from="1592554241939" duration="2982000" />
+      <workItem from="1592554241939" duration="3111000" />
+      <workItem from="1592792476789" duration="2895000" />
+      <workItem from="1592811589142" duration="1425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88914000" />
+    <option name="totallyTimeSpent" value="93363000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,25 +264,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="486" y="0" width="956" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.19235925" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.34776536" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.7920792" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.7917847" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3427762" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.34560907" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4362606" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -290,6 +299,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -475,14 +496,31 @@
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_11_minNumberOfRotateArr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_39_MajorityElementOfArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="63" column="17" lean-forward="true" selection-start-line="51" selection-start-column="7" selection-end-line="63" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Medium/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="59" selection-start-line="59" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
