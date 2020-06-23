@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Easy/_20_Valid_Parentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,11 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="317">
+              <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#threeSum#0;class#_15_Three_Sum#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String/Easy/_20_Valid_Parentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,14 +88,15 @@
         <option value="$PROJECT_DIR$/src/CodingInterviews/_11_minNumberOfRotateArr.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_39_MajorityElementOfArr.java" />
         <option value="$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java" />
+        <option value="$PROJECT_DIR$/src/String/Easy/_20_Valid_Parentheses.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1182" />
-    <option name="y" value="222" />
+    <option name="x" value="807" />
+    <option name="y" value="57" />
     <option name="width" value="995" />
-    <option name="height" value="832" />
+    <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -92,6 +106,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,27 +130,25 @@
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592813282978" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592880134060" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -247,12 +261,13 @@
       <workItem from="1592545424290" duration="13000" />
       <workItem from="1592554241939" duration="3111000" />
       <workItem from="1592792476789" duration="2895000" />
-      <workItem from="1592811589142" duration="1425000" />
+      <workItem from="1592811589142" duration="2296000" />
+      <workItem from="1592878328863" duration="1801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93363000" />
+    <option name="totallyTimeSpent" value="96035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,24 +279,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.34776536" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.18967828" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.7917847" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.7549575" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.4362606" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.34560907" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -299,18 +315,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -519,8 +523,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="317">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#threeSum#0;class#_15_Three_Sum#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Easy/_20_Valid_Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
