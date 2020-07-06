@@ -13,7 +13,7 @@ import java.util.Arrays;
  * The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit.
  * You may assume the integer does not contain any leading zero, except the number 0 itself.
  * */
-public class PlusOne {
+public class _66_PlusOne {
 
     /*思路
      * 从后遍历，遇到 9 就变为 0,arr[i--]++

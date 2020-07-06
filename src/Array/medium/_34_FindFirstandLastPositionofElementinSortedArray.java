@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 /*
 * Given an array of integers nums sorted in ascending order,
@@ -16,7 +16,7 @@ package Array.Medium;
 
 import java.util.Arrays;
 
-public class Yiki_34_FindFirstandLastPositionofElementinSortedArray {
+public class _34_FindFirstandLastPositionofElementinSortedArray {
 
  private static int search2(int key, int[] arr) {
   if (arr.length <= 0) {

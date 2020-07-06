@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -20,7 +20,7 @@ import java.util.List;
  * 所有数字（包括 target）都是正整数。
  * 解集不能包含重复的组合。 */
 
-public class CombinationSum {
+public class _39_CombinationSum {
 
 
     /*思路

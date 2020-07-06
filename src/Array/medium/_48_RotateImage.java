@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 /*
  * You are given an n x n 2D matrix representing an image.
@@ -12,7 +12,7 @@ package Array.Medium;
  * 看清楚：输入的是个二维数组，示例明明有歧义- -...
  * */
 
-public class RotateImage {
+public class _48_RotateImage {
 
     /*思路
      * 循环四个点作为一圈顺时针交换元素

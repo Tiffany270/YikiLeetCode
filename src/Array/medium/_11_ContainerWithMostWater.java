@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 /*11.盛最多水的容器
  *给定 n 个非负整数 a1，a2，...，an，每个数代表坐标中的一个点 (i, ai) 。
@@ -16,7 +16,7 @@ package Array.Medium;
  * Output: 49
  * */
 
-public class ContainerWithMostWater {
+public class _11_ContainerWithMostWater {
 
     /*题解1： Brute Force/暴力法
      * 用两个循环来找max...

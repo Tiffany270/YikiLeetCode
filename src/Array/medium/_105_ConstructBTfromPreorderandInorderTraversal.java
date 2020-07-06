@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 /*
  *  105. Construct Binary Tree from Preorder and Inorder Traversal
@@ -6,7 +6,7 @@ package Array.Medium;
  *     Given preorder and inorder traversal of a tree, construct the binary tree.
  * */
 
-public class ConstructBTfromPreorderandInorderTraversal {
+public class _105_ConstructBTfromPreorderandInorderTraversal {
 
 
     /*note:

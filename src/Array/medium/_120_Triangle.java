@@ -1,10 +1,9 @@
-package Array.Medium;
+package Array.medium;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /*
- *  120. Triangle/三角形最小路径和
+ *  120. _120_Triangle/三角形最小路径和
  *  Given a triangle,
  *  find the minimum path sum from top to bottom.
  *  Each step you may move to adjacent numbers on the row below.
@@ -13,7 +12,7 @@ import java.util.List;
  *  where n is the total number of rows in the triangle.
  * */
 
-public class Triangle {
+public class _120_Triangle {
 
     /*思路
      * DP + bottom to top + 非原地

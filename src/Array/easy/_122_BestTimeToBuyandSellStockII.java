@@ -11,7 +11,7 @@ package Array.easy;
  * Note: You may not engage in multiple transactions at the same time (i.e., you must sell the stock before you buy again).
  * */
 
-public class BestTimeToBuyandSellStockII {
+public class _122_BestTimeToBuyandSellStockII {
 
     /*思路
      * 遍历+贪心算法：

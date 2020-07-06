@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ import java.util.List;
  * Given a set of distinct integers, nums, return all possible subsets (the power set).
  * Note: The solution set must not contain duplicate subsets.
  * */
-public class Subsets {
+public class _78_Subsets {
 
 
     /*思路1

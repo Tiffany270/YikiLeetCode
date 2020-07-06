@@ -1,4 +1,4 @@
-package Array.Medium;
+package Array.medium;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ import java.util.Arrays;
  * Given a positive integer n,
  * generate a square matrix filled with elements from 1 to n2 in spiral order.
  * */
-public class SpiralMatrixII {
+public class _59_SpiralMatrixII {
 
     /*思路
      * 二维数组+遍历旋螺填填进去

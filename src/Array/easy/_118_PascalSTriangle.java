@@ -11,7 +11,7 @@ package Array.easy;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PascalSTriangle {
+public class _118_PascalSTriangle {
 
 
     /*

@@ -9,7 +9,7 @@ package Array.easy;
 
 import java.util.Map;
 
-public class MaximumSubarray {
+public class _53_MaximumSubarray {
 
 
     /*思路1

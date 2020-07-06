@@ -14,7 +14,7 @@ You may assume that each input would have exactly one solution and you may not u
 
 import java.util.Arrays;
 
-public class TwoSumII {
+public class _167_TwoSumII {
 
     /*思路：双指针
      * 一个从头，一个从尾

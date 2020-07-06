@@ -1,4 +1,4 @@
-//package Array.Medium;
+//package Array.medium;
 
 // 没写出来/太久没写/有空再说
 

@@ -29,7 +29,7 @@ import java.util.Map;
  *
  * 解法三：API（不推荐）
  * */
-public class MajorityElement {
+public class _169_MajorityElement {
 
     public static int majorityElement(int[] nums) {
 

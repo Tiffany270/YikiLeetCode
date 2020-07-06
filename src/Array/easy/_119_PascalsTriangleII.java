@@ -18,7 +18,7 @@ import java.util.List;
  * Follow up:
  * Could you optimize your algorithm to use only O(k) extra space?
  * */
-public class PascalsTriangleII {
+public class _119_PascalsTriangleII {
 
     /*
      * 思路：

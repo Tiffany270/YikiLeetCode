@@ -9,7 +9,7 @@ import java.util.Arrays;
  * You may assume no duplicates in the array.
  *
  * */
-public class SearchInsertPosition {
+public class _35_SearchInsertPosition {
 
     //就是一个查找算法
     //二分查找
