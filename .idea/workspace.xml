@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/CombinationSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ContainerWithMostWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/RotateImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/SpiralMatrixII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/_15_Three_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/_15_Three_Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimeToBuyandSellStockII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimetoBuyandSellStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MaximumSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MergeSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveDuplicatesFromSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/SearchInsertPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSumII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="21" />
+            <state relative-caret-position="268">
+              <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="24">
+                <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -71,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BaseExm/Longest_common_subsequence.java" />
         <option value="$PROJECT_DIR$/src/BaseExm/Longest_common_substring.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java" />
@@ -122,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/Array/hard/_154_FindMinimum_in_RotatedSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_11_minArray.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -214,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594176490774" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594176676366" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -345,12 +331,13 @@
       <workItem from="1594005209697" duration="3359000" />
       <workItem from="1594026000436" duration="1727000" />
       <workItem from="1594101124507" duration="3918000" />
-      <workItem from="1594173146351" duration="2441000" />
+      <workItem from="1594173146351" duration="2777000" />
+      <workItem from="1594189665782" duration="321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116068000" />
+    <option name="totallyTimeSpent" value="116725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,12 +361,12 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.21954674" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.21923621" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3753541" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3753541" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -400,16 +387,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="37" selection-end-column="2" />
-          <folding>
-            <element signature="e#112#608#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -784,8 +761,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="21" />
+        <state relative-caret-position="268">
+          <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
