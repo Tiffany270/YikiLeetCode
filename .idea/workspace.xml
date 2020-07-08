@@ -2,32 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/hard/_154_FindMinimum_in_RotatedSortedArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_39_CombinationSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/ConstructBTfromInorderandPostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_106_ConstructBTfromInorderandPostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/ConstructBTfromPreorderandInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_105_ConstructBTfromPreorderandInorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_11_ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/MinimumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_64_MinimumPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_48_RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/SpiralMatrixII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_59_SpiralMatrixII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_78_Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_120_Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_34_FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/medium/_15_Three_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/BestTimeToBuyandSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_122_BestTimeToBuyandSellStockII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/BestTimetoBuyandSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_121_BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_169_MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_53_MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_88_MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/PascalSTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_118_PascalSTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/PascalsTriangleII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_119_PascalsTriangleII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_66_PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_26_RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_27_RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_189_RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_35_SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_167_TwoSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/CombinationSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/RotateImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/SpiralMatrixII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Yiki_34_FindFirstandLastPositionofElementinSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/_15_Three_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/_15_Three_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimeToBuyandSellStockII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/BestTimetoBuyandSellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MaximumSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MergeSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveDuplicatesFromSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/SearchInsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSumII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +41,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Array/hard/_154_FindMinimum_in_RotatedSortedArrayII.java">
+        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            <state relative-caret-position="76">
+              <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -69,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/String/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/BaseExm/Longest_common_consecutive_substring.java" />
         <option value="$PROJECT_DIR$/src/BaseExm/Longest_common_subsequence.java" />
         <option value="$PROJECT_DIR$/src/BaseExm/Longest_common_substring.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" />
@@ -120,6 +120,8 @@
         <option value="$PROJECT_DIR$/src/Array/Medium/_120_Triangle.java" />
         <option value="$PROJECT_DIR$/src/Array/Medium/_34_FindFirstandLastPositionofElementinSortedArray.java" />
         <option value="$PROJECT_DIR$/src/Array/hard/_154_FindMinimum_in_RotatedSortedArrayII.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_11_minArray.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java" />
       </list>
     </option>
   </component>
@@ -137,8 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,7 +163,8 @@
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -211,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594029817046" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594176490774" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -231,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._04_FindNumberIn2DArray">
+  <component name="RunManager" selected="Application._21_oddBerforeEven">
     <configuration name="_04_FindNumberIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingInterviews._04_FindNumberIn2DArray" />
       <module name="YikiLeetCode" />
@@ -284,16 +287,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="06_ZigZag_Conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
+    <configuration name="_21_oddBerforeEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingInterviews._21_oddBerforeEven" />
+      <module name="YikiLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingInterviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._21_oddBerforeEven" />
         <item itemvalue="Application._04_FindNumberIn2DArray" />
         <item itemvalue="Application._15_Three_Sum" />
         <item itemvalue="Application._14_Longest_Common_Prefix" />
         <item itemvalue="Application._08_String_To_Integer_Atoi" />
-        <item itemvalue="Node.js.06_ZigZag_Conversion.js" />
       </list>
     </recent_temporary>
   </component>
@@ -330,12 +343,14 @@
       <workItem from="1593656617265" duration="4646000" />
       <workItem from="1593753311140" duration="2614000" />
       <workItem from="1594005209697" duration="3359000" />
-      <workItem from="1594026000436" duration="1655000" />
+      <workItem from="1594026000436" duration="1727000" />
+      <workItem from="1594101124507" duration="3918000" />
+      <workItem from="1594173146351" duration="2441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109637000" />
+    <option name="totallyTimeSpent" value="116068000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,22 +363,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20509383" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.2077748" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.66478074" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.21954674" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.27053824" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3753541" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -384,30 +400,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="371" selection-start-line="371" selection-end-line="371" />
-          <folding>
-            <element signature="e#13945#13946#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="96" selection-start-line="94" selection-start-column="7" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptVersion/String/03Longest_Substring_Without_Repeating_Characters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -773,6 +765,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_11_minArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/easy/_01TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="21" />
         </state>
       </provider>
     </entry>
