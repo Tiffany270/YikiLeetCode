@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_29_SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_15_OnesInBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,11 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_29_SpiralOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-586">
-              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="24">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_15_OnesInBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <folding>
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,8 +42,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java" />
         <option value="$PROJECT_DIR$/JavaScriptVersion/String/06_ZigZag_Conversion.js" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/ListNode.java" />
@@ -97,12 +109,13 @@
         <option value="$PROJECT_DIR$/src/CodingInterviews/_21_oddBerforeEven.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_29_SpiralOrder.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_15_OnesInBinary.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1107" />
-    <option name="y" value="147" />
+    <option name="x" value="1106" />
+    <option name="y" value="146" />
     <option name="width" value="995" />
     <option name="height" value="835" />
   </component>
@@ -114,8 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,12 +165,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseExm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -217,12 +222,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594263505617" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594360691710" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -242,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._29_SpiralOrder">
+  <component name="RunManager" selected="Application._15_OnesInBinary">
     <configuration name="_04_FindNumberIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingInterviews._04_FindNumberIn2DArray" />
       <module name="YikiLeetCode" />
@@ -256,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14_Longest_Common_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Easy._14_Longest_Common_Prefix" />
+    <configuration name="_15_OnesInBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingInterviews._15_OnesInBinary" />
       <module name="YikiLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.Easy.*" />
+          <option name="PATTERN" value="CodingInterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._15_OnesInBinary" />
         <item itemvalue="Application._29_SpiralOrder" />
         <item itemvalue="Application._21_oddBerforeEven" />
         <item itemvalue="Application._04_FindNumberIn2DArray" />
         <item itemvalue="Application._15_Three_Sum" />
-        <item itemvalue="Application._14_Longest_Common_Prefix" />
       </list>
     </recent_temporary>
   </component>
@@ -355,12 +362,13 @@
       <workItem from="1594101124507" duration="3918000" />
       <workItem from="1594173146351" duration="2777000" />
       <workItem from="1594189665782" duration="2144000" />
-      <workItem from="1594197038870" duration="3605000" />
+      <workItem from="1594197038870" duration="3807000" />
+      <workItem from="1594349817742" duration="2736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122153000" />
+    <option name="totallyTimeSpent" value="125091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,16 +388,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26340482" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.26675603" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.28731343" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.2857143" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3753541" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.26770538" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -410,13 +418,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Math/Easy/_07_Reverse_Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_22_LinkLastK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -790,8 +791,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_29_SpiralOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-586">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="24">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_15_OnesInBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
