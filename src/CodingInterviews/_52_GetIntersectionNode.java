@@ -20,7 +20,6 @@ public class _52_GetIntersectionNode {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if (headA == null || headB == null)
             return null;
-
         ListNode p1 = headA;
         ListNode p2 = headB;
         while (p1 != p2) {
