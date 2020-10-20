@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_50_FirstUniqChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_62_LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_27_MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_32_I_LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_40_GetLeastNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,32 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_52_GetIntersectionNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_62_LastRemaining.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_50_FirstUniqChar.java">
+        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_32_I_LevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            <state relative-caret-position="581">
+              <caret line="45" column="20" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="45" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="195" column="61" lean-forward="true" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -68,9 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" />
-        <option value="$PROJECT_DIR$/src/CodingInterviews/_22_LinkLastK.java" />
-        <option value="$PROJECT_DIR$/src/Math/_07_Reverse_Integer.java" />
         <option value="$PROJECT_DIR$/src/Math/Easy/_07_Reverse_Integer.java" />
         <option value="$PROJECT_DIR$/src/String/Medium/_08_String_To_Integer_Atoi.java" />
         <option value="$PROJECT_DIR$/src/String/Easy/_14_Longest_Common_Prefix.java" />
@@ -119,12 +108,16 @@
         <option value="$PROJECT_DIR$/src/CodingInterviews/_52_GetIntersectionNode.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_62_LastRemaining.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_50_FirstUniqChar.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_40_GetLeastNumbers.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_27_MirrorTree.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_32_I_LevelOrder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="920" />
-    <option name="width" value="1005" />
+    <option name="x" value="45" />
+    <option name="y" value="5" />
+    <option name="width" value="1259" />
     <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -136,7 +129,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,12 +151,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595490909169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603095808393" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -304,12 +297,18 @@
       <workItem from="1595311274629" duration="1583000" />
       <workItem from="1595489776055" duration="893000" />
       <workItem from="1595492393443" duration="597000" />
-      <workItem from="1595574770796" duration="1435000" />
+      <workItem from="1595574770796" duration="1784000" />
+      <workItem from="1595818071246" duration="66000" />
+      <workItem from="1595836040915" duration="1328000" />
+      <workItem from="1596437718342" duration="14000" />
+      <workItem from="1597043730262" duration="43000" />
+      <workItem from="1603092244017" duration="3584000" />
+      <workItem from="1603178067120" duration="3001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138725000" />
+    <option name="totallyTimeSpent" value="147110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,11 +328,11 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2680965" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24050634" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.28429985" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.28288543" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -359,42 +358,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array/medium/_15_Three_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#threeSum#0;class#_15_Three_Sum#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="203" column="17" selection-start-line="203" selection-start-column="17" selection-end-line="203" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="694" column="34" selection-start-line="694" selection-start-column="31" selection-end-line="694" selection-end-column="34" />
-          <folding>
-            <element signature="e#23043#23044#0" expanded="true" />
-            <element signature="e#23070#23071#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/_121_BestTimetoBuyandSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/easy/_189_RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -596,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_06_ReversePrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String/Medium/_06_ZigZag_Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -721,8 +677,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_50_FirstUniqChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        <state relative-caret-position="605">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_06_ReversePrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_40_GetLeastNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_27_MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="195" column="61" lean-forward="true" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_32_I_LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="45" column="20" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="45" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
