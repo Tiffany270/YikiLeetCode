@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class _32_I_LevelOrder {
+public class _32_LevelOrderI {
     /*
     * 从上到下打印出二叉树的每个节点，同一层的节点按照从左到右的顺序打印。
                 例如:
