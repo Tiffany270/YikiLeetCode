@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_07_ReBuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_58_ReverseWords_I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/_11_minArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/_15_OnesInBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/_15_OnesInBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/META-INF/YikiLeetCode.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_07_ReBuildTree.java">
+        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_58_ReverseWords_I.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617">
-              <caret line="47" column="20" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="47" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_27_MirrorTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#747#748#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="521">
+              <caret line="37" column="37" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="37" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -62,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CodingInterviews/_39_MajorityElementOfArr.java" />
         <option value="$PROJECT_DIR$/src/Array/Medium/_15_Three_Sum.java" />
         <option value="$PROJECT_DIR$/src/String/Easy/_20_Valid_Parentheses.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_10_1_Fibonacci.java" />
@@ -113,11 +96,13 @@
         <option value="$PROJECT_DIR$/src/CodingInterviews/_32_LevelOrderII.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_32_LevelOrderIII.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_07_ReBuildTree.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_58_ReverseWords_I.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
+    <option name="x" value="1027" />
+    <option name="y" value="75" />
     <option name="width" value="1554" />
     <option name="height" value="1050" />
   </component>
@@ -129,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,20 +131,25 @@
               <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YikiLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YikiLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603432226780" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603690694342" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -310,12 +301,12 @@
       <workItem from="1603345471906" duration="2255000" />
       <workItem from="1603357114670" duration="1981000" />
       <workItem from="1603429634982" duration="2415000" />
-      <workItem from="1603681988001" duration="880000" />
+      <workItem from="1603681988001" duration="3052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156758000" />
+    <option name="totallyTimeSpent" value="158930000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,7 +318,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1243" height="840" extended-state="0" />
+    <frame x="650" y="0" width="1243" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -335,11 +326,11 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.21956088" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.27594936" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.09335219" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.70963174" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -365,13 +356,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/_53_MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/easy/_88_MergeSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -724,8 +708,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_07_ReBuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="47" selection-end-column="20" />
+        <state relative-caret-position="113">
+          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -736,6 +720,13 @@
           <folding>
             <element signature="e#747#748#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_58_ReverseWords_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
