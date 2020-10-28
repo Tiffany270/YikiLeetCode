@@ -31,7 +31,7 @@ public class _53_IIMissingNumber {
             }
         }
 
-        return mid;
+        return lo;
     }
 
     public static void main(String[] args) {
