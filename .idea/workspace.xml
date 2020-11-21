@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460e7ffc-ca98-40ca-91bb-70421bb5f1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_21_MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingInterviews/_30_MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_21_MergeTwoLists.java">
+        <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_30_MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="36" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="36" />
+            <state relative-caret-position="432">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -46,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CodingInterviews/_05_ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_24_ReverseLinkList.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_06_ReversePrint.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_09_CQueue.java" />
@@ -97,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/CodingInterviews/_55_I_MaxDepth.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_54_KthLargest.java" />
         <option value="$PROJECT_DIR$/src/CodingInterviews/_21_MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/CodingInterviews/_30_MinStack.java" />
       </list>
     </option>
   </component>
@@ -149,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605853649284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605939568039" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -312,12 +321,13 @@
       <workItem from="1605600186357" duration="1154000" />
       <workItem from="1605681746702" duration="1186000" />
       <workItem from="1605693250699" duration="1193000" />
-      <workItem from="1605849633480" duration="3980000" />
+      <workItem from="1605849633480" duration="4224000" />
+      <workItem from="1605937442985" duration="2115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177475000" />
+    <option name="totallyTimeSpent" value="179834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,12 +351,12 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.66855526" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.66760963" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.2917847" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.30878186" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -367,20 +377,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array/easy/_35_SearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/medium/_39_CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="59" selection-start-line="59" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/medium/_106_ConstructBTfromInorderandPostorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -737,8 +733,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_21_MergeTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="36" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="36" />
+        <state relative-caret-position="150">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.11.0_201/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingInterviews/_30_MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
