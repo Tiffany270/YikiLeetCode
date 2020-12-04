@@ -3,7 +3,7 @@ package CodingInterviews;
 /*
 * 输入两个链表，找出它们的第一个公共节点。
         （例子写的什么乱七八糟的）
-
+同LeetCode 160
 * */
 public class _52_GetIntersectionNode {
 
