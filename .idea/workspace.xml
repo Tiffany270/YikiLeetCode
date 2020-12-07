@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6ec5c4a-a18d-4e82-8a3b-78bc84b8ec39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/Linked/Linked_Medium/02AddTwoNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptVersion/String/03Longest_Substring_Without_Repeating_Characters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Linked/Medium/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Linked/Medium/_02Add_Two_Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/String/Medium/_03_Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked/Medium/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked/Medium/_02Add_Two_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/_03_Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/_05_Longest_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/_01twoSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptVersion/Array/Array_easy/01twoSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/ConstructBTfromPreorderandInorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/MinimumPathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Subsets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/Medium/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalSTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/PascalsTriangleII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/_01TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/Array/easy/_01TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YikiLeetCode/CodingInterviews/ReverseLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/TwoSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/easy/_01TwoSum.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d6cEvED7gPNHnrjAyPqKfSKfQj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6ec5c4a-a18d-4e82-8a3b-78bc84b8ec39" name="Default Changelist" comment="" />
+      <created>1591748875490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591748875490</updated>
+      <workItem from="1591748879616" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
