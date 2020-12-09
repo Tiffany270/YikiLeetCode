@@ -64,9 +64,9 @@ public class _01TwoSum {
     }
 
     public static void main(String[] args) {
-        _01TwoSum twosum = new _01TwoSum();
+        _01TwoSum twoSum = new _01TwoSum();
         int[] arr = {2, 7, 11, 15};
-        System.out.println(Arrays.toString(twosum.twoSum(arr, 9)));
+        System.out.println(Arrays.toString(twoSum.twoSum(arr, 9)));
     }
 }
 
