@@ -26,10 +26,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/easy/_13_RomanToInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+            <state relative-caret-position="293">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#romanToInt#0;class#_13_RomanToInt#0" />
               </folding>
             </state>
           </provider>
@@ -162,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607508329008" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607508410063" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -333,12 +334,12 @@
       <workItem from="1606984017232" duration="700000" />
       <workItem from="1607064958745" duration="2026000" />
       <workItem from="1607323170821" duration="1666000" />
-      <workItem from="1607505388392" duration="2735000" />
+      <workItem from="1607505388392" duration="3013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189916000" />
+    <option name="totallyTimeSpent" value="190194000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,7 +352,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -362,12 +362,12 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.2545969" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.25354108" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.29320112" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.2917847" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.30878186" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -761,10 +761,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/easy/_13_RomanToInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        <state relative-caret-position="293">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#romanToInt#0;class#_13_RomanToInt#0" />
           </folding>
         </state>
       </provider>
