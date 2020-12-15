@@ -10,7 +10,7 @@ import java.util.Map;
  * You may assume that each input would have exactly one solution,
  * and you may not use the same element twice.
  * */
-public class _01TwoSum {
+public class _01_TwoSum {
 
     /*
      * 遍历，找到target-num[i]=num[j]的元素
@@ -64,7 +64,7 @@ public class _01TwoSum {
     }
 
     public static void main(String[] args) {
-        _01TwoSum twoSum = new _01TwoSum();
+        _01_TwoSum twoSum = new _01_TwoSum();
         int[] arr = {2, 7, 11, 15};
         System.out.println(Arrays.toString(twoSum.twoSum(arr, 9)));
     }
