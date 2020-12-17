@@ -1,5 +1,6 @@
 package Leetcode.easy;
 
+// 求根号X 二分法
 public class _69_Sqrt_x {
     public int mySqrt(int x) {
 
