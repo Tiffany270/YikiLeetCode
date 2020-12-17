@@ -19,26 +19,37 @@ public class _38_CountAndSay {
                 描述前一项，这个数是 1211 即 “ 一 个 1 + 一 个 2 + 二 个 1 ” ，记作 "111221"
 
     * */
-    public String countAndSay(int n) {
 
-        return null;
+    // solution : double point
+    //              count = end-start; use a cur to store res, every inner loop should init cur;
+    //          when pre[start]!=pre[end], end ++;
+    //
+    public String countAndSay(int n) {
+        StringBuffer pre = new StringBuffer("1");
+        StringBuffer cur = new StringBuffer("1");
+
+        for (int i = 1; i < n; i++) {
+            pre = cur;
+            cur = new StringBuffer();
+            int start = 0;
+            int end = 0;
+            while (end < pre.length()) {
+                System.out.println(pre.length());
+                while (end < pre.length() && pre.charAt(start) == pre.charAt(end)) {
+                    end++;// in order to avoid loop end early, make end++ enough
+                }
+                // start to join together
+                cur = cur.append(Integer.toString(end - start)).append(pre.charAt(start));
+                start = end;
+
+            }
+        }
+        return cur.toString();
     }
 
-    String count(String str) {
-        char[] list = str.toCharArray();
-        int count = 1;
-        String res = "";
-        char prev = list[0];
-        for (int i = 1; i < list.length; i++) {
-            char ele = list[i];
-            if (ele == prev) {
-                count += 1;
-            } else {
-                count = 1;
-            }
 
-        }
-
-        return "";
+    public static void main(String[] args) {
+        _38_CountAndSay func = new _38_CountAndSay();
+        func.countAndSay(6);
     }
 }
