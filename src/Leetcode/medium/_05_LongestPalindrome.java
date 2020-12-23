@@ -17,7 +17,7 @@ package Leetcode.medium;
         Output: "bb"
 * */
 
-public class _05_Longest_Palindrome {
+public class _05_LongestPalindrome {
 
     /*
     * Approach 1: = Longest Common Consecutive Substring
@@ -91,7 +91,7 @@ public class _05_Longest_Palindrome {
 
     public static void main(String[] args) {
 
-        _05_Longest_Palindrome func = new _05_Longest_Palindrome();
+        _05_LongestPalindrome func = new _05_LongestPalindrome();
         String test = "cbbabbc";
         String res = func.longestPalindrome(test);
 

@@ -15,7 +15,7 @@ import java.util.Set;
     Explanation: The answer is "abc", with the length of 3.
 
 * */
-public class _03_Longest_Substring_Without_Repeating_Characters {
+public class _03_LongestSubstringWithoutRepeatingCharacters {
 
     /*Note: use HashSet and sliding window
     * API:  Set<T> set = new HashSet<>();set.contains(v); string.charA(j);  getMax = Math.max(x,y)
@@ -70,7 +70,7 @@ public class _03_Longest_Substring_Without_Repeating_Characters {
     }
 
     public static void main(String[] args) {
-        _03_Longest_Substring_Without_Repeating_Characters func = new _03_Longest_Substring_Without_Repeating_Characters();
+        _03_LongestSubstringWithoutRepeatingCharacters func = new _03_LongestSubstringWithoutRepeatingCharacters();
         int res = func.lengthOfLongestSubstring2("abcabdc");
         System.out.println(res);
     }

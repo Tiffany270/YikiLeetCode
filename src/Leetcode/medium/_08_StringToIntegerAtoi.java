@@ -38,7 +38,7 @@ package Leetcode.medium;
  * str.charAt(i)// the string stored in char is 'ascii', so str.charAt(i) - '0'
  * */
 
-public class _08_String_To_Integer_Atoi {
+public class _08_StringToIntegerAtoi {
     public int myAtoi(String str) {
         str = str.trim();// 去空格
 
@@ -53,7 +53,7 @@ public class _08_String_To_Integer_Atoi {
     }
 
     public static void main(String[] args) {
-        _08_String_To_Integer_Atoi func = new _08_String_To_Integer_Atoi();
+        _08_StringToIntegerAtoi func = new _08_StringToIntegerAtoi();
         int res = func.myAtoi("0000000000012345678");
         System.out.println(res);
 

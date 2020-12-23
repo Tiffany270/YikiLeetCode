@@ -15,7 +15,7 @@ package Leetcode.medium;
 
 
 
-public class _02Add_Two_Numbers {
+public class _02AddTwoNumbers {
     /*
      * Loop a LinkList:
      *       [1] Store 'head' first, it's important: Node cur = node;
@@ -60,7 +60,7 @@ public class _02Add_Two_Numbers {
     }
 
     public static void main(String[] args) {
-        _02Add_Two_Numbers Two_Numbers = new _02Add_Two_Numbers();
+        _02AddTwoNumbers Two_Numbers = new _02AddTwoNumbers();
         ListNode listNode1 = new ListNode(1);
 //        listNode1.add(4);
 //        listNode1.add(3);

@@ -41,7 +41,7 @@ import java.util.List;
 * API:Arrays.asList : turn array into List
 * */
 
-public class _15_Three_Sum {
+public class _15_ThreeSum {
 
     public List<List<Integer>> threeSum(int[] nums) {
 
@@ -79,7 +79,7 @@ public class _15_Three_Sum {
     }
 
     public static void main(String[] args) {
-        _15_Three_Sum func = new _15_Three_Sum();
+        _15_ThreeSum func = new _15_ThreeSum();
         int[] arr = {-1, 0, 1, 2, -1, -4};
         func.threeSum(arr);
     }

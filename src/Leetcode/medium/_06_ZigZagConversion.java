@@ -2,7 +2,7 @@ package Leetcode.medium;
 
 import java.util.ArrayList;
 
-public class _06_ZigZag_Conversion {
+public class _06_ZigZagConversion {
     /* (锯齿形）
     * The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this:
      * (you may want to display this pattern in a fixed font for better legibility)
@@ -67,7 +67,7 @@ public class _06_ZigZag_Conversion {
     }
 
     public static void main(String[] args) {
-        _06_ZigZag_Conversion func = new _06_ZigZag_Conversion();
+        _06_ZigZagConversion func = new _06_ZigZagConversion();
         String test = "AB";
         String res = func.convert(test, 1);
         System.out.println(res);
