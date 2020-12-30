@@ -4,6 +4,22 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
+* About recur
+* f(3)
+ =>3*f(2)
+ =>3*f(2*f(1))
+ =>3*f(2*1)
+ =>3*2
+ =>6
+
+ f(n){
+    1. find the end condition if(x) return T
+    2. find some condition to reduce times of recur if(x==xx) return T;
+    3. return equal f(x) to reduce scale return recur(f(n-1))
+ }
+* */
+
+/*
 * Given n pairs of parentheses,
 * write a function to generate all combinations of well-formed parentheses.
 
@@ -19,7 +35,7 @@ public class _22_GenerateParentheses {
 
     public static void main(String[] args) {
         _22_GenerateParentheses func = new _22_GenerateParentheses();
-        List res = func.generateParenthesis(2);
+        List res = func.generateParenthesis(1);
         System.out.println(res.toString());
     }
 
@@ -32,14 +48,15 @@ public class _22_GenerateParentheses {
     }
 
     public void recur(char[] current, int pos) {
-        System.out.println(pos);
+        System.out.print(pos);
+        System.out.print(' ');
         System.out.println(current);
         if (pos == current.length) {
             if (valid(current)) {
                 combinations.add(new String(current));
             }
         } else {
-// 不懂啊啊啊啊啊啊
+
             current[pos] = '(';
             recur(current, pos + 1);
             current[pos] = ')';
