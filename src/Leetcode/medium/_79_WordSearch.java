@@ -21,7 +21,7 @@ package Leetcode.medium;
 * */
 public class _79_WordSearch {
     /*Solution BFS
-    别回退了你写不出来
+    别回退了你写不出来(不过感觉回溯也是回退啊……）
      * */
 
     public boolean exist(char[][] board, String word) {
