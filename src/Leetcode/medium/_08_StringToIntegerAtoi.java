@@ -1,5 +1,5 @@
 package Leetcode.medium;
-/* 未解决
+/*
 *
                         Example 1:
                         Input: "42"
@@ -36,26 +36,48 @@ package Leetcode.medium;
  * API:
  * Character.isDigit(v)
  * str.charAt(i)// the string stored in char is 'ascii', so str.charAt(i) - '0'
+ *
+ * ABCD
+ * num[i-1] * 10 + i = res
+ *
  * */
 
 public class _08_StringToIntegerAtoi {
     public int myAtoi(String str) {
         str = str.trim();// 去空格
-
-        if (str.length() == 0) return 0;//长度为0
-        if (!Character.isDigit(str.charAt(0))//第一个非+-并且非数字的字符串
-                && str.charAt(0) != '-' && str.charAt(0) != '+')
+        if (str == "") {
             return 0;
+        }
 
+        int i = 0;
+        int flag = 1;
         int res = 0;
+        if (i < str.length() && (str.charAt(i) == '+' || str.charAt(i) == '-'))
+            flag = (str.charAt(i++) == '-') ? -1 : 1;
 
-        return res;
+
+        while (i < str.length()
+                && str.charAt(i) >= '0'
+                && str.charAt(i) <= '9') {
+            if (res > Integer.MAX_VALUE / 10
+                    || (res == Integer.MAX_VALUE / 10
+                    && str.charAt(i) - '0' > Integer.MAX_VALUE % 10)// 最后一个数字和max的最后一个数字比较溢出，max%10 = 7
+            ) {
+                return flag == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+            }
+
+            res = res * 10 + (str.charAt(i++) - '0');
+        }
+
+        return res * flag;
+
     }
 
     public static void main(String[] args) {
         _08_StringToIntegerAtoi func = new _08_StringToIntegerAtoi();
-        int res = func.myAtoi("0000000000012345678");
-        System.out.println(res);
-
+        int res = func.myAtoi("");
+        System.out.println("".length());
     }
+
+
 }
