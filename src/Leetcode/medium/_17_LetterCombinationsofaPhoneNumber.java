@@ -61,7 +61,6 @@ public class _17_LetterCombinationsofaPhoneNumber {
             String letters = phone.get(digit);
             for (int i = 0; i < letters.length(); i++) {
                 String letter = letters.substring(i, i + 1);
-                System.out.println(combination);
                 backtrack(combination+letter, next_digit.substring(1));
             }
         }

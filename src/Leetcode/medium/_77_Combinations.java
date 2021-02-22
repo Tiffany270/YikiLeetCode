@@ -28,6 +28,10 @@ import java.util.List;
 * */
 public class _77_Combinations {
 
+    /*
+    *  n = 4, 集合为1~4
+    *  k是深度
+    * */
     List<List<Integer>> res = new ArrayList<>();
     Deque<Integer> path = new ArrayDeque<>();
 
@@ -36,14 +40,14 @@ public class _77_Combinations {
         return res;
     }
 
-    public void dfs(int n, int k, int startIdex) {
+    public void dfs(int n, int k, int startIndex) {
 
         if (path.size() == k) {
             res.add(new ArrayList<>(path));
             return;
         }
 
-        for (int i = startIdex; i <= n; i++) {
+        for (int i = startIndex; i <= n; i++) {
             path.addLast(i);
             dfs(n, k, i + 1);
             path.removeLast();
